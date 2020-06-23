@@ -14,5 +14,3 @@ function deleteFromObjectByKey(object, key){
     delete temporaryObj[key];
     return temporaryObj;
 }
-
-
